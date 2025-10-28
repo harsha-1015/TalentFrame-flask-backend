@@ -1,0 +1,14 @@
+[project]
+name = "talent-frame-flask"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "deepface>=0.0.95",
+    "dotenv>=0.9.9",
+    "flask>=3.1.2",
+    "matplotlib>=3.10.7",
+    "pinecone>=7.3.0",
+    "tf-keras>=2.20.1",
+]
